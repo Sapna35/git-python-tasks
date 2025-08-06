@@ -9,6 +9,7 @@ This repo contains Python file handling practice tasks.
 - Q5: Move `.txt` files into a reports folder
 
 #New Hands-On
+
  Q1: Checks if a folder named data_input exists in the current directory. If not, create it and inform the user to add .txt files to it.
 - Q2: Reads all .txt files from the data_input folder
 - Q3:  For each .txt file:
