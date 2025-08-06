@@ -1,0 +1,4 @@
+Filename	Lines	Words
+------------------------------
+file1.txt	10	100
+file2.txt	8	76
